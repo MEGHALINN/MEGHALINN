@@ -55,10 +55,7 @@
 
 ---
 
-### 📅 GitHub Contribution Graph:
-<p align="center">
-  <img src="https://github.com/meghalinn/meghalinn/blob/output/github-contribution-grid-snake.svg" />
-</p>
+
 
 ---
 
