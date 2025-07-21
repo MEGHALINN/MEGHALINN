@@ -1,5 +1,5 @@
 ![Header](https://github-profile-trophy.vercel.app/?username=meghalinn&theme=darkhub&margin-w=15&margin-h=15)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meghalinn&label=Profile%20views&color=0e75b6&style=flat" alt="meghalinn" /> </p>
+
 
 <h1 align="center">Hi 👋, I'm Megha</h1>
 <h3 align="center">A passionate Frontend Web Developer and Cybersecurity Enthusiast</h3>
