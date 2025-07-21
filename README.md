@@ -7,11 +7,11 @@
 
 ### 🚀 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/megha-b" target="blank">
+<a href="https://linkedin.com/in/megha-b-mb" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 <a href="https://instagram.com/_tris.dauntless" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="Instagram" height="30" width="40" />
 </a>
 </p>
 
