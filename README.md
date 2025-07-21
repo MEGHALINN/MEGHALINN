@@ -1,4 +1,4 @@
-![Header](https://github-profile-trophy.vercel.app/?username=meghalinn&row=3&column=3&theme=darkhub&margin-w=15&margin-h=15)
+![Header](https://github-profile-trophy.vercel.app/?username=meghalinn&row=1&theme=darkhub&margin-w=15&margin-h=15)
 
 
 <h1 align="center">Hi 👋, I'm Megha</h1>
