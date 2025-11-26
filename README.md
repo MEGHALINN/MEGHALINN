@@ -1,68 +1,54 @@
-![Header](https://github-profile-trophy.vercel.app/?username=meghalinn&row=1&theme=darkhub&margin-w=15&margin-h=15)
+<!-- CUSTOM BANNER -->
+<h1>Hi 👋, I'm  Megha</h1>
 
+<!-- TYPING HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;Cybersecurity+Enthusiast;Game+Developer+in+UE5;Always+Learning+New+Things!&center=true&width=500&height=50&color=F7F7F7" />
+</p>
 
-<h1 align="center">Hi 👋, I'm Megha</h1>
-<h3 align="center">A passionate Frontend Web Developer and Cybersecurity Enthusiast</h3>
-
----
-
-### 🚀 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/megha-b-mb" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=meghab2004@gmail.com" target="blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="Instagram" height="30" width="40" />
-</a>
+<!-- TROPHIES -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=meghalinn&theme=darkhub&no-frame=true&row=1&column=7&margin-w=5&margin-h=5&cache=86400" />
 </p>
 
 ---
 
-### 🛠️ Languages and Tools:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40" />
+<h2 align="center">🚀 Connect with Me</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/megha-b-mb" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  </a>
+  <a href="mailto:meghab2004@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png" height="30" width="40"/>
+  </a>
 </p>
 
 ---
+ ### 🔥 Most Used Languages: <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meghalinn&layout=compact&theme=dark&hide_border=true" /> </p>
+ ---
 
-### 📊 GitHub Stats:
-<table>
-<tr>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api?username=meghalinn&show_icons=true&theme=dark&hide_border=true" />
-</td>
-<td>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meghalinn&theme=dark&hide_border=true" />
-</td>
-</tr>
-</table>
-
----
-
-### 🔥 Most Used Languages:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meghalinn&layout=compact&theme=dark&hide_border=true" />
+### 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" />
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="45" height="45" />
 </p>
 
 ---
 
 
 
+### 🔭 Currently Working On
+- Building games in **Unreal Engine 5**
 
-
-### 🔭 Currently Working On:
-- Game Development using **Unreal Engine 5**
-
-### 🌱 Currently Learning:
+### 🌱 Currently Learning
 - **Cybersecurity**
 
-### 📫 How to Reach Me:
+### 📫 Reach Me At
 📧 **meghab2004@gmail.com**
